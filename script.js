@@ -6,43 +6,43 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Pergunta 1",
+    enunciado: "Em sua opinião quem foi o melhor durante a década passada?",
     alternativas: [
         {
-            texto:"Alternativa 1",
+            texto: "Messi",
             afirmacao: "Afirmação 1"
         },
         {
-        texto:"Alternativa 2",
+        texto:"Cristiano Ronaldo",
         afirmacao: "Afirmação 2"
         }
     ]
 },
 
 {
-    enunciado: "Pergunta 2",
+    enunciado: "Você gosta de mamão?",
     alternativas: [
         {
 
-        texto: "Alternativa 1 da pergunta 2",
+        texto: "Sim",
         afirmacao: "Afirmação 1 da pergunta 2"
         },
         {
-        texto:"Alternativa 2 da pergunta 2",
+        texto:"Não",
         afirmacao: "Afirmação 2 da pergunta 2"
         }
     ]
 },
 
 {
-    enunciado: "Pergunta 3",
+    enunciado: "Qual desses você prefere?",
     alternativas: [
         {
-        texto:"Alternativa 1 da pergunta 3",
+        texto:"Carro",
         afirmacao: "Afirmação 1 da pergunta 3"
         },
         {
-        texto:"Alternativa 2 da pergunta 3",
+        texto:"Moto",
         afirmacao: "Afirmação 2 da pergunta 3"
         }
     ]
