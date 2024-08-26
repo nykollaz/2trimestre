@@ -10,11 +10,11 @@ const perguntas = [
     alternativas: [
         {
             texto: "Messi",
-            afirmacao: "Afirmação 1"
+            afirmacao: "Sabe muito!"
         },
         {
         texto:"Cristiano Ronaldo",
-        afirmacao: "Afirmação 2"
+        afirmacao: "Tente novamente!"
         }
     ]
 },
@@ -25,11 +25,11 @@ const perguntas = [
         {
 
         texto: "Sim",
-        afirmacao: "Afirmação 1 da pergunta 2"
+        afirmacao: "Neutro"
         },
         {
         texto:"Não",
-        afirmacao: "Afirmação 2 da pergunta 2"
+        afirmacao: "Neutro"
         }
     ]
 },
@@ -39,11 +39,11 @@ const perguntas = [
     alternativas: [
         {
         texto:"Carro",
-        afirmacao: "Afirmação 1 da pergunta 3"
+        afirmacao: "Família!"
         },
         {
         texto:"Moto",
-        afirmacao: "Afirmação 2 da pergunta 3"
+        afirmacao: "Solitude."
         }
     ]
 }
